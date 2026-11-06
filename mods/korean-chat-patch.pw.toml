@@ -1,0 +1,13 @@
+name = "Korean Chat Patch"
+filename = "koreanpatch-forge-1.9.6+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyulnpBL/versions/6R6bSXKY/koreanpatch-forge-1.9.6%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "3a267b44c645b952ec1fc08bce730f2ccd4e0888f9f4734b8282dec37ef299e60dcf6603b423f43e8eec77834c04ed2faa6bf93909c7256d6f4e2a1100af0c9f"
+
+[update]
+[update.modrinth]
+mod-id = "qyulnpBL"
+version = "6R6bSXKY"

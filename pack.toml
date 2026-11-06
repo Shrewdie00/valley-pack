@@ -1,12 +1,12 @@
 name = "Valley"
 author = "shrewdie00"
-version = "0.9.1"
+version = "0.9.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a611ffc9144adf753d01c1d2cf340f6e465c91e45c6e7ac31a09e535f9d80405"
+hash = "12b9543c3758ac9ff76cac9d45afabce7147aed43c265051b2547410d3fb14da"
 
 [versions]
 forge = "47.4.0"
