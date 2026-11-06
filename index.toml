@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "2586ae2a0a6c0065247423a061b133c4394bdbcd3cb29b4174be23a3185e0de3"
+
+[[files]]
 file = "config/CSC/CSC_Warn.log"
 hash = "89f7cad025a616b806f3ebea3e0cb4f134e02838aed47dc731e4690367be97e2"
 
@@ -4310,7 +4314,7 @@ hash = "3564851fbc00c4d297a11c69089d02c3cda033eede11b843f1e62da37cbf6ab2"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "47f31161a2d3a5fb74a0e5ec8e3507689491e568ab27b779ed414cdd1ccfa687"
+hash = "05d63b6938cfce843064dd10e03365b9f1d97fb4f3a2a94aff5febabd18b5d12"
 
 [[files]]
 file = "configureddefaults/servers.dat"
