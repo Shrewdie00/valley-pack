@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "tag": "forge:chests/wooden"
+    },
+    "t": {
+      "tag": "minecraft:trapdoors"
+    }
+  },
+  "pattern": [
+    "t",
+    "b"
+  ],
+  "result": {
+    "item": "shippingbin:basic_shipping_bin"
+  },
+  "show_notification": true
+}

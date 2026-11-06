@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "S": {
+      "tag": "forge:plates/copper"
+    },
+    "R": {
+      "item": "society:oak_resin"
+    }
+  },
+  "pattern": [
+    "CSC",
+    "SRS",
+    "CSC"
+  ],
+  "result": {
+    "count": 8,
+    "item": "create:fluid_pipe"
+  },
+  "show_notification": true
+}

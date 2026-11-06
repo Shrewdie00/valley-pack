@@ -1,0 +1,13 @@
+name = "Loot Journal: Pickup Notifier 🧩 Forge"
+filename = "loot_journal-forge-1.20.1-6.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b639a911da3bcb58852573480ca97c85d3f2741"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7867729
+project-id = 700723

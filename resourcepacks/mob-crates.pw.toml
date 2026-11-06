@@ -1,0 +1,13 @@
+name = "Mob Crates"
+filename = "MobCrates_1.20.1_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe2dc9248975cf86cbf9b6fbdfc1aa85bd8b2977"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5560059
+project-id = 1068335

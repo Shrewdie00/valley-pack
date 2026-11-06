@@ -1,0 +1,10 @@
+{
+  "herbalbrews.advancement.find_tea_blossom.desc": "Trouvez des fleurs de thé en butin dans le monde.",
+  "subtitles.herbalbrews.tea_kettle_boiling": "La bouilloire à thé bout",
+  "herbalbrews.advancement.find_lavender": "Découverte de la lavande",
+  "herbalbrews.advancement.find_lavender.desc": "Cherchez le parfum apaisant de la lavande dans la fraîcheur des montagnes.",
+  "block.herbalbrews.lavender": "Lavande",
+  "block.herbalbrews.lavender_tea_block": "Thé à la lavande",
+  "block.herbalbrews.dried_green_tea_leaf_block": "Bloc de feuilles de thé vert séchées",
+  "item.herbalbrews.lavender_blossom": "Fleur de lavande"
+}

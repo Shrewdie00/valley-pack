@@ -1,0 +1,13 @@
+name = "Icon Journey"
+filename = "Icon Journey 1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0808ae731fec2c634720e82d0eb1b174202df19f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5656300
+project-id = 978219

@@ -1,0 +1,18 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Bone Meal",
+    "enabledByDefault": false,
+    "defaultPayment": {
+      "item": "society:money",
+      "count": 1,
+      "nbt": "{valley_price:8}"
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "minecraft:bone_meal"
+    }
+  ]
+}

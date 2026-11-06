@@ -1,0 +1,13 @@
+name = "SelectiveBounds"
+filename = "selectivebounds-forge-1.20.1-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65050f339adf7a29cb0a8a4d0f999b169f1231a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6491455
+project-id = 1179699

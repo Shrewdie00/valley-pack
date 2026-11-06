@@ -1,0 +1,13 @@
+name = "SkillExpNotifier"
+filename = "skillsexpnotifier-5.4.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "576056db1d63f5e8da43e5e6c977c2c71623a932"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6713691
+project-id = 1290362

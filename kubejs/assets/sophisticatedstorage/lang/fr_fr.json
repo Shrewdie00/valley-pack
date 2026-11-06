@@ -1,0 +1,15 @@
+{
+  "block.sophisticatedstorage.netherite_barrel": "%s%sTonneau en iridium",
+  "block.sophisticatedstorage.limited_netherite_barrel_1": "Limité %s%sTonneau en iridium I",
+  "block.sophisticatedstorage.limited_netherite_barrel_2": "Limité %s%sTonneau en iridium II",
+  "block.sophisticatedstorage.limited_netherite_barrel_3": "Limité %s%sTonneau en iridium III",
+  "block.sophisticatedstorage.limited_netherite_barrel_4": "Limité %s%sTonneau en iridium IV",
+  "block.sophisticatedstorage.netherite_chest": "%s%sCoffre en iridium",
+  "item.sophisticatedstorage.netherite_shulker_box": "Boîte de shulker en iridium",
+  "block.sophisticatedstorage.netherite_shulker_box": "Boîte de shulker en iridium",
+  "item.sophisticatedstorage.basic_to_netherite_tier_upgrade": "Amélioration de base vers iridium",
+  "item.sophisticatedstorage.copper_to_netherite_tier_upgrade": "Amélioration cuivre vers iridium",
+  "item.sophisticatedstorage.iron_to_netherite_tier_upgrade": "Amélioration fer vers iridium",
+  "item.sophisticatedstorage.gold_to_netherite_tier_upgrade": "Amélioration or vers iridium",
+  "item.sophisticatedstorage.diamond_to_netherite_tier_upgrade": "Amélioration diamant vers iridium"
+}

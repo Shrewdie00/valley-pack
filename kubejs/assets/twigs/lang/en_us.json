@@ -1,0 +1,44 @@
+{
+
+  "block.twigs.chiseled_bricks": "Polished Chiseled Bricks",
+  "block.twigs.mossy_bricks": "Mossy Tiles",
+  "block.twigs.mossy_brick_stairs": "Mossy Tile Stairs",
+  "block.twigs.mossy_brick_slab": "Mossy Tile Slab",
+  "block.twigs.mossy_brick_wall": "Mossy Tile Wall",
+
+  "block.twigs.gravel_bricks": "Polished Gravel Bricks",
+  "block.twigs.gravel_brick_wall": "Polished Gravel Brick Wall",
+  "block.twigs.gravel_brick_slab": "Polished Gravel Brick Slab",
+  "block.twigs.gravel_brick_stairs": "Polished Gravel Brick Stairs",
+
+
+  "block.twigs.cobblestone_bricks": "Cobblestone Tiles",
+  "block.twigs.cobblestone_brick_stairs": "Cobblestone Tile Stairs",
+  "block.twigs.cobblestone_brick_slab": "Cobblestone Tiles Slab",
+  "block.twigs.cobblestone_brick_wall": "Cobblestone Tiles Wall",
+  "block.twigs.cracked_cobblestone_bricks": "Cracked Cobblestone Tiles",
+  "block.twigs.mossy_cobblestone_bricks": "Mossy Cobblestone Tiles",
+  "block.twigs.mossy_cobblestone_brick_stairs": "Mossy Cobblestone Tile Stairs",
+  "block.twigs.mossy_cobblestone_brick_slab": "Mossy Cobblestone Tiles Slab",
+  "block.twigs.mossy_cobblestone_brick_wall": "Mossy Cobblestone Tiles Wall",
+
+  "block.twigs.polished_calcite_bricks": "Basket Bond Calcite Bricks",
+  "block.twigs.polished_calcite_brick_stairs": "Basket Bond Calcite Brick Stairs",
+  "block.twigs.polished_calcite_brick_slab": "Basket Bond Calcite Brick Slab",
+  "block.twigs.polished_calcite_brick_wall": "Basket Bond Calcite Brick Wall",
+  "block.twigs.cracked_polished_calcite_bricks": "Cracked Basket Bond Calcite Bricks",
+
+  "block.twigs.polished_tuff_bricks": "Rough Tuff Bricks",
+  "block.twigs.polished_tuff_brick_stairs": "Rough Tuff Brick Stairs",
+  "block.twigs.polished_tuff_brick_slab": "Rough Tuff Brick Slab",
+  "block.twigs.polished_tuff_brick_wall": "Rough Tuff Brick Wall",
+  "block.twigs.cracked_polished_tuff_bricks": "Cracked Rough Tuff Bricks",
+
+  "block.twigs.paper_lantern": "Small Paper Lantern",
+  "block.twigs.allium_paper_lantern": "Small Paper Lantern",
+  "block.twigs.dandelion_paper_lantern": "Small Paper Lantern",
+  "block.twigs.crimson_roots_paper_lantern": "Small Paper Lantern",
+  "block.twigs.blue_orchid_paper_lantern": "Small Paper Lantern",
+  "block.twigs.torchflower_paper_lantern": "Small Paper Lantern"
+
+}

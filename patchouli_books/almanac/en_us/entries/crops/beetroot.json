@@ -1,0 +1,26 @@
+{
+  "name": "Beetroot 🍂",
+  "category": "patchouli:crops",
+  "icon": "minecraft:beetroot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Stats$()$(li):coin: 24$(li)🍂 §4Autumn$(li)Seed Price: :coin: 4$(li)Yield: 1$(li)Grow time: 3 days"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "Beetroot Crop",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "minecraft:beetroots[age=3]",
+          "F": "minecraft:farmland[moisture=7]"
+        }
+      }
+    }
+  ]
+}

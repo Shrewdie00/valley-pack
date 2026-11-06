@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:tomato",
+            "required": false
+        },
+        {
+            "id": "#forge:vegetables/tomato",
+            "required": false
+        }
+    ]
+}

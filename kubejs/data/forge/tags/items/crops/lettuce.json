@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:lettuce",
+            "required": false
+        },
+        {
+            "id": "#forge:vegetables/lettuce",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Sewing Kit"
+filename = "SewingKit-1.20.1-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74c258e78bff933fb05abd2764706b63a31c10d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5188041
+project-id = 411896

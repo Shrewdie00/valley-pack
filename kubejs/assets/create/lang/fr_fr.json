@@ -1,0 +1,9 @@
+{
+  "advancement.create.diving_suit_lava.desc": "Tentez de plonger dans la lave avec votre équipement de plongée en iridium",
+  "block.create.netherite_backtank": "Réservoir dorsal résistant à la lave",
+  "item.create.netherite_backtank": "Réservoir dorsal résistant à la lave",
+  "item.create.netherite_backtank_placeable": "Réservoir dorsal résistant à la lave posable",
+  "item.create.netherite_diving_boots": "Bottes de plongée résistantes à la lave",
+  "item.create.netherite_diving_helmet": "Casque de plongée résistant à la lave",
+  "item.create.netherite_diving_helmet.tooltip.summary": "Combiné à un _réservoir dorsal résistant à la lave_, ceci peut vous protéger de la _chaleur extrême_. Pour être efficace, les _jambes et pieds_ doivent aussi être recouverts d'équipement _résistant à la lave_."
+}

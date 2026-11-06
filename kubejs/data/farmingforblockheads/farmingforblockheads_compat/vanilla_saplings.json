@@ -1,0 +1,108 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Vanilla Saplings",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "society:money",
+      "count": 1,
+      "nbt": "{valley_price:8}"
+    },
+    "defaultCategory": "farmingforblockheads:saplings"
+  },
+  "customEntries": [
+    {
+      "output": "minecraft:oak_sapling"
+    },
+    {
+      "output": "minecraft:spruce_sapling"
+    },
+    {
+      "output": "minecraft:birch_sapling"
+    },
+    {
+      "output": "minecraft:jungle_sapling"
+    },
+    {
+      "output": "minecraft:acacia_sapling"
+    },
+    {
+      "output": "minecraft:dark_oak_sapling"
+    },
+    {
+      "output": "minecraft:cherry_sapling"
+    },
+    {
+      "output": "minecraft:azalea",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:16}"
+      }
+    },
+    {
+      "output": "minecraft:flowering_azalea",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:16}"
+      }
+    },
+    {
+      "output": "minecraft:mangrove_propagule",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:16}"
+      }
+    },
+    {
+      "output": "meadow:pine_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:16}"
+      }
+    },
+    {
+      "output": "autumnity:red_maple_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:64}"
+      }
+    },
+    {
+      "output": "beachparty:palm_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:128}"
+      }
+    },
+    {
+      "output": "quark:orange_blossom_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:16}"
+      }
+    },
+    {
+      "output": "vinery:dark_cherry_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:256}"
+      }
+    },
+    {
+      "output": "vinery:apple_tree_sapling",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:256}"
+      }
+    }
+  ]
+}

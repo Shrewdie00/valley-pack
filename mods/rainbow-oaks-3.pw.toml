@@ -1,0 +1,13 @@
+name = "Rainbow Oaks Renewed"
+filename = "rainbowoaks-forge-1.20-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ef26f3479f4da16f052437f91e36205cbd71162"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5167239
+project-id = 984099

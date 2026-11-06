@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-forge-1.19.4-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbfdee60bbe65076fc0d0e293631aeb377c23e2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6166552
+project-id = 412013

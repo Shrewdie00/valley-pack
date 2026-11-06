@@ -1,0 +1,134 @@
+{
+  "shop_id": "banker",
+  "name": "shop.society_trading.banker",
+  "texture": "dialog:textures/portraits/banker",
+  "jei_catalyst": {
+    "item": "society:villager",
+    "nbt": "{type:{id:\"society:banker\"}}"
+  },
+  "villager_profession": "cartographer",
+  "stage_required": "invited_banker",
+  "selector_weight": 1,
+  "trades": [
+    {
+      "offer": {
+        "item": "society:pig_race_ticket",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "banker_pig_race_ticket_for_crown"
+    },
+    {
+      "offer": {
+        "item": "society:multiplayer_pig_race_ticket",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 1024,
+      "trade_id": "banker_multiplayer_pig_race_ticket_ticket_for_crown"
+    },
+    {
+      "offer": {
+        "item": "numismatics_utils:bank_meter",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "banker_bank_meter_for_cog"
+    },
+    {
+      "offer": {
+        "item": "society:shipping_bin_monitor",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "banker_shipping_bin_monitor_for_cog"
+    },
+    {
+      "offer": {
+        "item": "whimsy_deco:phone",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 2048,
+      "trade_id": "phone_for_crown"
+    },
+    {
+      "offer": {
+        "item": "cozycafe:cafe_manager",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 12288,
+      "trade_id": "banker_cafe_manager"
+    },
+    {
+      "offer": {
+        "item": "numismatics:vendor",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 32,
+      "trade_id": "banker_vendor_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "numismatics:andesite_depositor",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 48,
+      "trade_id": "banker_andesite_depositor_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "numismatics:brass_depositor",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 128,
+      "trade_id": "banker_brass_depositor_for_cog"
+    },
+    {
+      "offer": {
+        "item": "society:coin_leaderboard",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 256,
+      "trade_id": "banker_coin_leaderboard_for_cog"
+    }
+  ]
+}

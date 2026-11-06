@@ -1,0 +1,13 @@
+name = "Daily Weather"
+filename = "dew_drop_daily_weather-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58959b8a1114d4730c3d6ba3996f26bd97fd61c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6609254
+project-id = 1062904

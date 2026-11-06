@@ -1,0 +1,13 @@
+name = "Stardewful Plaques"
+filename = "Stardew_plaques v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17b37b8c48bc8554e7bfc8a5dfec27eabe8e3d18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5801228
+project-id = 1119120

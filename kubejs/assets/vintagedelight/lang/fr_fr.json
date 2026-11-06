@@ -1,0 +1,17 @@
+{
+  "block.vintagedelight.peanut_crop": "RETIRÉ ! Achetez des graines de cacahuète au Marché !",
+  "block.vintagedelight.pepper_jam_jar": "Bocal de conserve de poivron",
+  "effect.vintagedelight.dehydrated.description": "Draine périodiquement l'eau environnante.",
+  "item.vintagedelight.deluxe_burger": "Le Burger Emma",
+  "item.vintagedelight.gearo_berry_jam_bottle": "Bouteille de conserve de baies de Gearo",
+  "item.vintagedelight.gearo_berry_mason_jar": "Bocal de conserve de baies de Gearo",
+  "item.vintagedelight.glow_berry_jam_bottle": "Bouteille de conserve de baies lumineuses",
+  "item.vintagedelight.glow_berry_mason_jar": "Bocal de conserve de baies lumineuses",
+  "item.vintagedelight.pepper_jam_bottle": "Bouteille de conserve de poivron",
+  "item.vintagedelight.pepper_jam_mason_jar": "Bocal de conserve de poivron",
+  "item.vintagedelight.sweet_berry_jam_bottle": "Bouteille de conserve de baies sucrées",
+  "item.vintagedelight.sweet_berry_mason_jar": "Bocal de conserve de baies sucrées",
+  "vintagedelight.advancement.get_jam_item": "Conservation !",
+  "vintagedelight.advancement.get_jam_item.desc": "Faites des conserves",
+  "vintagedelight.advancement.get_vinegar_item.desc": "Fermentez des conserves en vinaigre"
+}

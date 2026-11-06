@@ -1,0 +1,29 @@
+{
+  "parent": "society:main/money/obtain_neptunium_coin",
+  "criteria": {
+    "balance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "society.advancement.obtain_ancient_coin.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "society:money"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "society.advancement.obtain_ancient_coin.title"
+    }
+  },
+  "requirements": [
+    [
+      "balance"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

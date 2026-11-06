@@ -1,0 +1,213 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Vanilla Seeds",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "society:money",
+      "count": 1,
+      "nbt": "{valley_price:1}"
+    },
+    "defaultCategory": "farmingforblockheads:seeds"
+  },
+  "customEntries": [
+    {
+      "output": "farmersdelight:tomato_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "farm_and_charm:strawberry_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:3}"
+      }
+    },
+    {
+      "output": "society:blueberry_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "society:onion_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "veggiesdelight:turnip_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:6}"
+      }
+    },
+    {
+      "output": "society:potato_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:2}"
+      }
+    },
+    {
+      "output": "farm_and_charm:lettuce_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "veggiesdelight:cauliflower_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:6}"
+      }
+    },
+    {
+      "output": "supplementaries:flax_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:48}"
+      }
+    },
+    {
+      "output": "veggiesdelight:bellpepper_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:64}"
+      }
+    },
+    {
+      "output": "society:eggplant_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:8}"
+      }
+    },
+    {
+      "output": "minecraft:wheat_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:8}"
+      }
+    },
+    {
+      "output": "farm_and_charm:kernels",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "farm_and_charm:oat_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "minecraft:pumpkin_seeds"
+    },
+    {
+      "output": "minecraft:beetroot_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "farm_and_charm:barley_seeds",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:2}"
+      }
+    },
+    {
+      "output": "snowyspirit:ginger_flower",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:4}"
+      }
+    },
+    {
+      "output": "society:carrot_seed",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:2}"
+      }
+    },
+    {
+      "output": "minecraft:melon_seeds"
+    },
+    {
+      "output": "minecraft:bamboo",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:8}"
+      }
+    },
+    {
+      "output": "minecraft:kelp",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:8}"
+      }
+    },
+    {
+      "output": "farmersdelight:rice",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:256}"
+      }
+    },
+    {
+      "output": "minecraft:sugar_cane",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:192}"
+      }
+    },
+    {
+      "output": "minecraft:cactus",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:384}"
+      }
+    },
+    {
+      "output": "moreminecarts:glass_cactus",
+      "payment": {
+        "item": "society:money",
+        "count": 1,
+        "nbt": "{valley_price:2048}"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "society:treated_log"
+    },
+    {
+      "tag": "forge:ingots/copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_casing"
+    }
+  ]
+}

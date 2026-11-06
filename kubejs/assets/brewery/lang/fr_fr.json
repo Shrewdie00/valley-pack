@@ -1,0 +1,10 @@
+{
+  "entity.brewery.hanging_rope": "Corde flexible suspendue",
+  "entity.brewery.rope_collision": "Corde flexible",
+  "entity.brewery.rope_knot": "Nœud de corde flexible",
+  "item.brewery.rope": "Corde flexible",
+  "advancement.brewery.place_netherite_brewingstation": "Brasseur renforcé",
+  "advancement.brewery.place_netherite_brewingstation.desc": "Fabriquez et placez une station de brassage renforcée",
+  "block.brewery.netherite_brewingstation": "Station de brassage renforcée",
+  "tooltip.brewery.beer_quality": "Rang d'effet : %s"
+}

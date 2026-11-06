@@ -1,0 +1,13 @@
+name = "SVDialog"
+filename = "SVDialog-0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a171efc9cf6ea1fc03cb7ab94a07cc771e619390"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8579840
+project-id = 1441305

@@ -1,0 +1,13 @@
+name = "Stardew Valley Theme for Jade"
+filename = "JadeStardewValleyTheme.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "910fd30a002395fdd365311cb69a64847af98cd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6155118
+project-id = 897337

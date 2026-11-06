@@ -1,0 +1,17 @@
+{
+
+  "item.aquaculture.iron_hook": "Crabber's Hook",
+  "item.aquaculture.diamond_hook": "Deluxe Crabber's Hook",
+  "item.aquaculture.redstone_hook": "Jelly Hook",
+  "aquaculture.iron_hook.tooltip.title" : "Bait Catcher",
+  "aquaculture.iron_hook.tooltip.desc" : "50% chance to catch Crab Trap Bait",
+  "aquaculture.diamond_hook.tooltip.title" : "Super Bait Catcher",
+  "aquaculture.diamond_hook.tooltip.desc" : "25% chance to catch Deluxe Crab Trap Bait",
+  "aquaculture.redstone_hook.tooltip.title" : "Jelly Catcher",
+  "aquaculture.redstone_hook.tooltip.desc" : "+10% chance to catch 1-2 Jelly",
+  "aquaculture.light_hook.tooltip.title" : "Light",
+  "item.aquaculture.nether_star_hook": "Neptunium-Infused Hook",
+  "aquaculture.nether_star_hook.tooltip.title" : "Relic Hunter",
+  "aquaculture.nether_star_hook.tooltip.desc" : "4% chance to catch Relic Troves, increased luck",
+  "aquaculture.neptunium_hoe.tooltip.desc" : "Tilled farmland becomes Hydrating Fertilizer"
+}

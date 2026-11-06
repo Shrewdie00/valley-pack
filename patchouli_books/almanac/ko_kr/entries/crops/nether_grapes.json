@@ -1,0 +1,41 @@
+{
+  "name": "네더 포도 🌼🍂",
+  "category": "patchouli:crops",
+  "icon": "nethervinery:warped_grape",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)정보$()$(li):coin: 8$(li)🌼 §2봄§r 🍂 §4가을$(br2)$(l)메모$()$(br)각 포도 이름과 대응되는 네더 생물군계에서 발견 가능. 포도 지지대에 심어 기릅니다."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "포도 지지대",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "vinery:grapevine_stem[age=4,grape=warped]",
+          "F": "vinery:grapevine_stem"
+        }
+      }
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name ": "포도 덤불",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          ["0"],
+          ["F"]
+        ],
+        "mapping": {
+          "0": "nethervinery:warped_grape_bush[age=3]",
+          "F": "minecraft:warped_nylium"
+        }
+      }
+    }
+  ]
+}

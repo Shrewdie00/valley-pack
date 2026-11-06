@@ -1,0 +1,65 @@
+JEIEvents.addItems((e) => {
+  e.add("displaydelight:food_plate")
+  e.add("displaydelight:small_food_plate")
+  e.add("minecraft:bundle");
+  e.add("snowyspirit:ginger_crate");
+  const trophies = [
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:pantry"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:vault"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:boiler_room"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:crafts_room"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:fish_tank"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:artifacts"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:minerals"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:crops"}}'
+    ),
+    Item.of("trofers:large_pillar", '{BlockEntityTag:{Trophy:"trofers:fish"}}'),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:brews"}}'
+    ),
+    Item.of("trofers:large_pillar", '{BlockEntityTag:{Trophy:"trofers:gems"}}'),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:relics"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:cooking"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:wheels"}}'
+    ),
+    Item.of(
+      "trofers:large_pillar",
+      '{BlockEntityTag:{Trophy:"trofers:perfection"}}'
+    ),
+  ];
+  trophies.forEach((item) => {
+    e.add(item);
+  });
+});

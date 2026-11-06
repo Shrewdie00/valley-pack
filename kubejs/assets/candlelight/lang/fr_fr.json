@@ -1,0 +1,20 @@
+{
+  "advancement.candlelight.cooking_pot": "Maître des graines",
+  "advancement.candlelight.cooking_pot.desc": "Fabriquez et placez une marmite du maître",
+  "block.candlelight.acacia_drawer": "Commode rustique en acacia",
+  "block.candlelight.bamboo_drawer": "Commode rustique en bambou",
+  "block.candlelight.birch_drawer": "Commode rustique en bouleau",
+  "block.candlelight.cherry_drawer": "Commode rustique en cerisier",
+  "block.candlelight.chocolate_box": "Boîte de chocolats romantique",
+  "block.candlelight.cooking_pot": "Marmite du maître",
+  "block.candlelight.crimson_drawer": "Commode rustique carmin",
+  "block.candlelight.dark_oak_drawer": "Commode rustique en chêne noir",
+  "block.candlelight.drawer": "Commode rustique",
+  "block.candlelight.jungle_drawer": "Commode rustique en acajou",
+  "block.candlelight.mangrove_drawer": "Commode rustique en palétuvier",
+  "block.candlelight.oak_drawer": "Commode rustique en chêne",
+  "block.candlelight.spruce_drawer": "Commode rustique en sapin",
+  "block.candlelight.warped_drawer": "Commode rustique biscornue",
+  "entity.minecraft.villager.candlelight.cook": "Maître cultivateur",
+  "tooltip.candlelight.cook_armor.": "Chance culinaire :"
+}

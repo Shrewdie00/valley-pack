@@ -1,0 +1,13 @@
+name = "Fairy Wings Elytra"
+filename = "Fairy Wings Elytra.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d0b485a9dca77d56921f6a13b70cb9645ffe447"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6445218
+project-id = 1246471

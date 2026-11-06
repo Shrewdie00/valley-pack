@@ -1,0 +1,13 @@
+name = "Sturdy Farmland - Growth Edition"
+filename = "dew_drop_farmland_growth-9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7762a6171a4c0c2dffd09424830ff70d7624dd5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8603038
+project-id = 1172429

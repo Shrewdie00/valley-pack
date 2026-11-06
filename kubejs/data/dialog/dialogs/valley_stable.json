@@ -1,0 +1,62 @@
+{
+  "id": "valley_stable",
+  "title": "stable",
+  "description": "마구간",
+  "entries": [
+    {
+      "id": "start",
+      "text": [
+        {
+          "text": "마구간에 어서 와요! 어떤 탈것을 만나 볼래요?"
+        }
+      ],
+      "options": [
+        {
+          "text": {
+            "text": "1회 뽑기 (2,000원, 첫 뽑기는 무료)"
+          },
+          "target": "end",
+          "command": [
+            "valleygacha @p 1"
+          ]
+        },
+        {
+          "text": {
+            "text": "10회 뽑기 (18,000원)"
+          },
+          "target": "end",
+          "command": [
+            "valleygacha @p 10"
+          ]
+        },
+        {
+          "text": {
+            "text": "조각으로 교환하기"
+          },
+          "target": "end",
+          "command": [
+            "valleygacha @p shop"
+          ]
+        },
+        {
+          "text": {
+            "text": "내 탈것 보기"
+          },
+          "target": "end",
+          "command": [
+            "valleygacha @p list"
+          ]
+        },
+        {
+          "text": {
+            "text": "그만두기"
+          },
+          "target": "end"
+        }
+      ]
+    },
+    {
+      "id": "end"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "farmersdelight:rice",
+            "required": false
+        },
+        {
+            "id": "croptopia:rice",
+            "required": false
+        },
+        {
+            "id": "#forge:rice",
+            "required": false
+        }
+    ]
+}

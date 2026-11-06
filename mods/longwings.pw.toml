@@ -1,0 +1,13 @@
+name = "Longwings"
+filename = "Longwings-v0.9.5-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67b27eb2b422ef518ade23e97922c4edfbd461cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7980033
+project-id = 1277025

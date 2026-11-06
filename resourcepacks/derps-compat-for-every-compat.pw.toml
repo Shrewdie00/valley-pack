@@ -1,0 +1,13 @@
+name = "Derp's Compat for Every Compat"
+filename = "DerpWood.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d1afdd2cf10ee0343a183f786764c2d2485d0a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7831789
+project-id = 1317066

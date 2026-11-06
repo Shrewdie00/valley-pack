@@ -1,0 +1,13 @@
+name = "Croptania"
+filename = "croptania-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c19bf81ea1b8d81f09d1c8a27963b5c0e7fbb024"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6353910
+project-id = 1205372

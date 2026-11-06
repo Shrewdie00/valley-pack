@@ -1,0 +1,13 @@
+name = "Longwing Nuker"
+filename = "longwing_nuker.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84dc12b865fc1055eac46936bd9f982276afbf57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6868450
+project-id = 1324038

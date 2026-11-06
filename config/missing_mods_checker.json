@@ -1,0 +1,122 @@
+[
+    {
+        "pattern": "BalloonBox.*",
+        "displayName": "BalloonBox",
+        "url": "https://edge.forgecdn.net/files/4715/994/BalloonBox1.20.1(Forge)vs.1.0.3.jar"
+    },
+    {
+        "pattern": "connectivity-1.20.1-7.2.*",
+        "displayName": "Connectivity",
+        "url": "https://edge.forgecdn.net/files/7032/387/connectivity-1.20.1-7.2.jar"
+    },
+    {
+        "pattern": "cosmeticarmorreworked-1.20.1-v1a.*",
+        "displayName": "Cosmetic Armor Reworked",
+        "url": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar"
+    },
+    {
+        "pattern": "cupboard-1.20.1-2.7.*",
+        "displayName": "Cupboard",
+        "url": "https://edge.forgecdn.net/files/5470/32/cupboard-1.20.1-2.7.jar"
+    },
+    {
+        "pattern": "emberstextapi-1.4.1.*",
+        "displayName": "Ember's Text API",
+        "url": "https://edge.forgecdn.net/files/7503/929/emberstextapi-1.4.1.jar"
+    },
+    {
+        "pattern": "farmlife-1.20.1-1.1.0.*",
+        "displayName": "Dracovita Farm Life",
+        "url": "https://edge.forgecdn.net/files/5456/879/farmlife-1.20.1-1.1.0.jar"
+    },
+    {
+        "pattern": "FastLeafDecay-32.*",
+        "displayName": "Fast Leaf Decay",
+        "url": "https://edge.forgecdn.net/files/5375/681/FastLeafDecay-32.jar"
+    },
+    {
+        "pattern": "ftb-chunks-forge-2001.3.6.*",
+        "displayName": "FTB Chunks (Forge)",
+        "url": "https://edge.forgecdn.net/files/6431/735/ftb-chunks-forge-2001.3.6.jar"
+    },
+    {
+        "pattern": "ftb-library-forge-2001.2.12.*",
+        "displayName": "FTB Library (Forge)",
+        "url": "https://edge.forgecdn.net/files/7296/748/ftb-library-forge-2001.2.12.jar"
+    },
+    {
+        "pattern": "ftb-quests-forge-2001.4.17.*",
+        "displayName": "FTB Quests (Forge)",
+        "url": "https://edge.forgecdn.net/files/7260/736/ftb-quests-forge-2001.4.17.jar"
+    },
+    {
+        "pattern": "ftb-teams-forge-2001.3.2.*",
+        "displayName": "FTB Teams (Forge)",
+        "url": "https://edge.forgecdn.net/files/7499/810/ftb-teams-forge-2001.3.2.jar"
+    },
+    {
+        "pattern": "ftb-xmod-compat-forge-2.1.3.*",
+        "displayName": "FTB XMod Compat",
+        "url": "https://edge.forgecdn.net/files/6402/486/ftb-xmod-compat-forge-2.1.3.jar"
+    },
+    {
+        "pattern": "ftbbackups2-forge-1.20-1.0.23.*",
+        "displayName": "FTB Backups 2",
+        "url": "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar"
+    },
+    {
+        "pattern": "irons_rpg_tweaks-1.20-1.4.0.*",
+        "displayName": "Iron's Rpg Tweaks",
+        "url": "https://edge.forgecdn.net/files/6094/337/irons_rpg_tweaks-1.20-1.4.0.jar"
+    },
+    {
+        "pattern": "item-filters-forge-2001.1.0-build.59.*",
+        "displayName": "Item Filters",
+        "url": "https://edge.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar"
+    },
+    {
+        "pattern": "legendarycreatures-1.20.1-1.1.1.3.*",
+        "displayName": "Legendary Creatures",
+        "url": "https://edge.forgecdn.net/files/6826/898/legendarycreatures-1.20.1-1.1.1.3.jar"
+    },
+    {
+        "pattern": "moreminecarts-1.8.3.*",
+        "displayName": "More Minecarts and Rails",
+        "url": "https://edge.forgecdn.net/files/5134/64/moreminecarts-1.8.3.jar"
+    },
+    {
+        "pattern": "questsadditions-1.4.7.*",
+        "displayName": "Quests Additions (Forge)",
+        "url": "https://edge.forgecdn.net/files/6004/490/questsadditions-1.4.7.jar"
+    },
+    {
+        "pattern": "recipeessentials-1.20.1-4.0.*",
+        "displayName": "Recipe Essentials[Forge/Fabric]",
+        "url": "https://edge.forgecdn.net/files/6165/709/recipeessentials-1.20.1-4.0.jar"
+    },
+    {
+        "pattern": "serializer_debug-1.0.1.*",
+        "displayName": "SerializerDebug",
+        "url": "https://edge.forgecdn.net/files/6028/801/serializer_debug-1.0.1.jar"
+    },
+    {
+        "pattern": "SewingKit-1.20.1-1.8.1.*",
+        "displayName": "Sewing Kit",
+        "url": "https://edge.forgecdn.net/files/5188/41/SewingKit-1.20.1-1.8.1.jar"
+    },
+    {
+        "pattern": "structureessentials-1.20.1-4.8.*",
+        "displayName": "Structure Essentials[Forge/Fabric]",
+        "url": "https://edge.forgecdn.net/files/6732/854/structureessentials-1.20.1-4.8.jar"
+    },
+    {
+        "pattern": "ToolBelt-1.20.1-1.20.02.*",
+        "displayName": "Tool Belt",
+        "url": "https://edge.forgecdn.net/files/5929/61/ToolBelt-1.20.1-1.20.02.jar"
+    },
+    {
+        "pattern": "pamhc2trees-1.20-1.0.2.*",
+        "displayName": "Pam's HarvestCraft 2 - Trees",
+        "url": "https://edge.forgecdn.net/files/4625/518/pamhc2trees-1.20-1.0.2.jar"
+    }
+]

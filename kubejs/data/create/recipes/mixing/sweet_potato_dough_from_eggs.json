@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "veggiesdelight:sweet_potato"
+    },
+    {
+      "item": "farm_and_charm:yeast"
+    },
+    {
+      "tag": "farm_and_charm:flour"
+    },
+    {
+      "tag": "forge:eggs"
+    }
+  ],
+  "results": [
+    {
+      "item": "veggiesdelight:sweet_potato_dough",
+      "count": 10
+    }
+  ]
+}

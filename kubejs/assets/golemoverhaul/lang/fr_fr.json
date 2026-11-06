@@ -1,0 +1,10 @@
+{
+  "entity.golemoverhaul.reinforced_golem": "Golem renforcé",
+  "item.golemoverhaul.reinforced_golem_spawn_egg": "Oeuf d'apparition de golem renforcé",
+  "key.golemoverhaul.reinforced_golem_summon": "Invoquer un golem renforcé",
+  "subtitles.golemoverhaul.entity.reinforced_golem.death": "Le golem renforcé meurt",
+  "subtitles.golemoverhaul.entity.reinforced_golem.hit": "Le golem renforcé est frappé",
+  "subtitles.golemoverhaul.entity.reinforced_golem.hurt": "Le golem renforcé est blessé",
+  "subtitles.golemoverhaul.entity.reinforced_golem.step": "Le golem renforcé marche",
+  "subtitles.golemoverhaul.entity.reinforced_golem.summon": "Le golem renforcé est invoqué"
+}

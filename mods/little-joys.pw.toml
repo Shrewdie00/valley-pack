@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-forge-1.20.1-20.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fe6f76a1795e48525820e2a0fb3a17bde444485"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6841863
+project-id = 1235950

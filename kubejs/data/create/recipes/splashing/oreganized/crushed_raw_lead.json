@@ -1,0 +1,24 @@
+{
+  "type": "create:splashing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "oreganized"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_lead"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "oreganized:lead_nugget"
+    },
+    {
+      "chance": 0.35,
+      "item": "society:basalt_shard"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "block.candlelight.chocolate_box": "Romantic Chocolate Box",
+  "entity.minecraft.villager.candlelight.cook": "Master Cultivator",
+  "block.candlelight.cooking_pot": "Master Cooking Pot",
+  "advancement.candlelight.cooking_pot": "Seed Master",
+  "advancement.candlelight.cooking_pot.desc": "Craft and place a Master Cooking Pot",
+  "block.candlelight.acacia_drawer": "Rustic Acacia Drawer",
+  "block.candlelight.bamboo_drawer": "Rustic Bamboo Drawer",
+  "block.candlelight.birch_drawer": "Rustic Birch Drawer",
+  "block.candlelight.cherry_drawer": "Rustic Cherry Drawer",
+  "block.candlelight.crimson_drawer": "Rustic Crimson Drawer",
+  "block.candlelight.dark_oak_drawer": "Rustic Dark Oak Drawer",
+  "block.candlelight.drawer": "Rustic Drawer",
+  "block.candlelight.jungle_drawer": "Rustic Jungle Drawer",
+  "block.candlelight.mangrove_drawer": "Rustic Mangrove Drawer",
+  "block.candlelight.oak_drawer": "Rustic Oak Drawer",
+  "block.candlelight.spruce_drawer": "Rustic Spruce Drawer",
+  "block.candlelight.warped_drawer": "Rustic Warped Drawer",
+  "tooltip.candlelight.cook_armor.": "Culinary Luck:"
+}

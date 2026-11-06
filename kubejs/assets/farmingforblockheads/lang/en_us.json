@@ -1,0 +1,10 @@
+{
+  "block.farmingforblockheads.fertilized_farmland_rich": "REMOVED - No longer functions. Break for new fertilizer!",
+  "block.farmingforblockheads.fertilized_farmland_healthy": "REMOVED - No longer functions. Break for new fertilizer!",
+  "block.farmingforblockheads.fertilized_farmland_stable": "REMOVED - No longer functions",
+  "block.farmingforblockheads.fertilized_farmland_rich_stable": "REMOVED - No longer functions. Break for new fertilizer!",
+  "block.farmingforblockheads.fertilized_farmland_healthy_stable": "REMOVED - No longer functions. Break for new fertilizer!",
+  "item.farmingforblockheads.red_fertilizer": "REMOVED - Craft into new fertilizer",
+  "item.farmingforblockheads.green_fertilizer": "REMOVED - Craft into new fertilizer",
+  "item.farmingforblockheads.yellow_fertilizer": "REMOVED - No longer needed/works"
+}

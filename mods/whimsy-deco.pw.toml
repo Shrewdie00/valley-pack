@@ -1,0 +1,13 @@
+name = "Whimsy Deco"
+filename = "whimsy_deco-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78ae8d7df6de2e16480ee67cf86ac9ecb90b5c97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8579611
+project-id = 1351466

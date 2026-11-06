@@ -1,0 +1,18 @@
+{
+  "block.windswept.gingerbread_block": "Bloc de pain d'épices poli",
+  "block.windswept.gingerbread_brick_slab": "Dalle en briques de pain d'épices polies",
+  "block.windswept.gingerbread_brick_stairs": "Escalier en briques de pain d'épices polies",
+  "block.windswept.gingerbread_brick_wall": "Muret en briques de pain d'épices polies",
+  "block.windswept.gingerbread_bricks": "Briques de pain d'épices polies",
+  "block.windswept.gingerbread_cookie_block": "Bloc de biscuit de pain d'épices poli",
+  "block.windswept.gingerbread_door": "Porte en pain d'épices poli",
+  "block.windswept.gingerbread_trapdoor": "Trappe en pain d'épices poli",
+  "item.windswept.lavender_tea": "Thé au miel et à la lavande",
+  "item.windswept.wooden_bucket": "Chapeau seau",
+  "item.windswept.wooden_chocolate_bucket": "Chapeau seau en bois au chocolat",
+  "item.windswept.wooden_honey_bucket": "Chapeau seau en bois au miel",
+  "item.windswept.wooden_milk_bucket": "Chapeau seau en bois au lait",
+  "item.windswept.wooden_powder_snow_bucket": "Chapeau seau en bois de neige poudreuse",
+  "item.windswept.wooden_water_bucket": "Chapeau seau en bois d'eau",
+  "windswept.jei.info.wooden_bucket": "Les chapeaux seaux sont faciles à fabriquer, mais leur solidité en pâtit. La durabilité diminue lorsque les fluides quittent le seau."
+}

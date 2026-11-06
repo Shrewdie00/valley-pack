@@ -1,0 +1,30 @@
+[
+  {
+    "regex": "^\\Qadventuring\\E$",
+    "icon": "netherite_sword"
+  },
+  {
+    "regex": "^\\Qbooks\\E$",
+    "icon": "society:book_of_stars"
+  },
+  {
+    "regex": "^\\Qfarming\\E$",
+    "icon": "netherite_hoe"
+  },
+  {
+    "regex": "^\\Qfishing\\E$",
+    "icon": "fishing_rod"
+  },
+  {
+    "regex": "^\\Qhusbandry\\E$",
+    "icon": "society:milk_pail"
+  },
+  {
+    "regex": "^\\Qmastery\\E$",
+    "icon": "society:sunlit_pearl"
+  },
+  {
+    "regex": "^\\Qmining\\E$",
+    "icon": "netherite_pickaxe"
+  }
+]

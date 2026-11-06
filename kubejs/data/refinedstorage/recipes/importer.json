@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:cable"
+    },
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "society:battery"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:importer"
+  }
+}

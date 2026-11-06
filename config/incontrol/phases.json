@@ -1,0 +1,16 @@
+[
+  {
+    "name": "balloonsummon",
+    "conditions": {
+      "daycount": "repeat(1,0,4)",
+      "time": "range(1800,1850)"
+    }
+  },
+  {
+    "name": "balloonsummon2",
+    "conditions": {
+      "daycount": "repeat(1,0,5)",
+      "time": "range(15000,15050)"
+    }
+  }
+]

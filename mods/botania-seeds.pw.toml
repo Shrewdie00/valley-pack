@@ -1,0 +1,13 @@
+name = "Botania Seeds"
+filename = "botania_seeds-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f36454838bfba648914626643d40162a459e281"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6353856
+project-id = 1197807

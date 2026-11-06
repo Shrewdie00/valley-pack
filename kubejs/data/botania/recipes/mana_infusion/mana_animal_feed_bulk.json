@@ -1,0 +1,11 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "society:animal_feed_sack"
+  },
+  "mana": 90000,
+  "output": {
+    "item": "society:mana_feed",
+    "count": 9
+  }
+}

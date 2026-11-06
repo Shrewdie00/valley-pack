@@ -1,0 +1,13 @@
+name = "GeckoJS"
+filename = "GeckoJS-2001forge-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff6a1f7877d4b2ed1d0ae4f4f1ea92b65a356cc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6349198
+project-id = 977922

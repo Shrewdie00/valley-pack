@@ -1,0 +1,13 @@
+name = "Ember's Text API"
+filename = "emberstextapi-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "306a2c3938246550e9c50fd06a17956e9c20e164"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7503929
+project-id = 1345948

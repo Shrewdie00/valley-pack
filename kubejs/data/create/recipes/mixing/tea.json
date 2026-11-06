@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "herbalbrews:dried_black_tea"
+    },
+    {
+      "amount": 250,
+      "fluid": "society:ancient_fruit_juice",
+      "nbt": {}
+    },
+    {
+      "amount": 250,
+      "fluid": "society:milk"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "fluid": "create:tea"
+    }
+  ]
+}

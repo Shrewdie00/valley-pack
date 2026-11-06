@@ -1,0 +1,11 @@
+{
+  "type": "functionalstorage:custom_compacting",
+  "higher_input": {
+    "count": 1,
+    "item": "twigs:compacted_dripstone"
+  },
+  "lower_input": {
+    "count": 1,
+    "item": "minecraft:pointed_dripstone"
+  }
+}

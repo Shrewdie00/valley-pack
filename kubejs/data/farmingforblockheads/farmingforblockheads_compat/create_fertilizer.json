@@ -1,0 +1,19 @@
+{
+  "modId": "create",
+  "silent": true,
+  "group": {
+    "name": "Create Fertilizer",
+    "enabledByDefault": false,
+    "defaultPayment": {
+      "item": "society:money",
+      "count": 1,
+      "nbt": "{valley_price:8}"
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "create:tree_fertilizer"
+    }
+  ]
+}

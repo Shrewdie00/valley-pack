@@ -1,0 +1,10 @@
+{
+  "block.farmingforblockheads.fertilized_farmland_rich": "RETIRÉ - Ne fonctionne plus. Cassez pour obtenir un nouveau fertilisant !",
+  "block.farmingforblockheads.fertilized_farmland_healthy": "RETIRÉ - Ne fonctionne plus. Cassez pour obtenir un nouveau fertilisant !",
+  "block.farmingforblockheads.fertilized_farmland_stable": "RETIRÉ - Ne fonctionne plus",
+  "block.farmingforblockheads.fertilized_farmland_rich_stable": "RETIRÉ - Ne fonctionne plus. Cassez pour obtenir un nouveau fertilisant !",
+  "block.farmingforblockheads.fertilized_farmland_healthy_stable": "RETIRÉ - Ne fonctionne plus. Cassez pour obtenir un nouveau fertilisant !",
+  "item.farmingforblockheads.red_fertilizer": "RETIRÉ - Transformez en nouveau fertilisant",
+  "item.farmingforblockheads.green_fertilizer": "RETIRÉ - Transformez en nouveau fertilisant",
+  "item.farmingforblockheads.yellow_fertilizer": "RETIRÉ - Plus nécessaire/fonctionnel"
+}

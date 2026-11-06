@@ -1,0 +1,29 @@
+{
+  "parent": "society:main/money/obtain_ancient_coin",
+  "criteria": {
+    "balance": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "society.advancement.obtain_prismatic_coin.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "society:money"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "society.advancement.obtain_prismatic_coin.title"
+    }
+  },
+  "requirements": [
+    [
+      "balance"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

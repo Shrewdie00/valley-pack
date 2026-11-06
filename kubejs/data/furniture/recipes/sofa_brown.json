@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#C#",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "society:brown_sheet"
+    },
+    "#": {
+      "item": "society:brown_sheet"
+    }
+  },
+  "result": {
+    "item": "furniture:sofa_brown",
+    "count": 3
+  }
+}

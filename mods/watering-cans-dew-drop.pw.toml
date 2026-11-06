@@ -1,0 +1,13 @@
+name = "Watering Cans [Dew Drop]"
+filename = "dew_drop_watering_cans-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11884168a1527e449d13ee73c03f350a3310aa67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5550049
+project-id = 1062863

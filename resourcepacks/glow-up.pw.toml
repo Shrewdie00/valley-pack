@@ -1,0 +1,13 @@
+name = "Glow Up - Emissive Ores"
+filename = "glow_up-1.5-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65db4ed365298c17b8d5ed24ed19d8d8096f034c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7456429
+project-id = 1162010

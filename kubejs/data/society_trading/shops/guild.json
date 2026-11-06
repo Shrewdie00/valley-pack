@@ -1,0 +1,363 @@
+{
+  "shop_id": "guild",
+  "name": "shop.society_trading.guild",
+  "texture": "create:textures/block/industrial_iron_block",
+  "jei_catalyst": {
+    "item": "minecraft:leather_boots"
+  },
+  "selector_weight": 1,
+  "trades": [
+    {
+      "offer": {
+        "item": "minecraft:leather_helmet",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "guild_leather_helmet"
+    },
+    {
+      "offer": {
+        "item": "minecraft:leather_chestplate",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 128,
+      "trade_id": "guild_leather_chestplate"
+    },
+    {
+      "offer": {
+        "item": "minecraft:leather_leggings",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 128,
+      "trade_id": "guild_leather_leggings"
+    },
+    {
+      "offer": {
+        "item": "minecraft:leather_boots",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "guild_leather_boots"
+    },
+    {
+      "offer": {
+        "item": "sophisticatedbackpacks:backpack",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 1024,
+      "trade_id": "guild_backpack"
+    },
+    {
+      "offer": {
+        "item": "minecraft:arrow",
+        "count": 4
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 2,
+      "trade_id": "guild_arrow"
+    },
+    {
+      "offer": {
+        "item": "naturescompass:naturescompass",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 24576,
+      "trade_id": "guild_naturescompass"
+    },
+    {
+      "offer": {
+        "item": "via_romana:charting_map",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 1024,
+      "trade_id": "guild_charting_map"
+    },
+    {
+      "offer": {
+        "item": "rehooked:wood_hook",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "guild_wood_hook"
+    },
+    {
+      "offer": {
+        "item": "quark:pickarang",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64536,
+      "trade_id": "guild_pickarang"
+    },
+    {
+      "offer": {
+        "item": "moblassos:hostile_lasso",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 131072,
+      "trade_id": "guild_hostile_lasso"
+    },
+    {
+      "offer": {
+        "item": "domesticationinnovation:collar_tag",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "stage_required": "adventuring_mastery",
+      "unlock_description": "jei.society_trading.adventuring_mastery_unlocked",
+      "trade_id": "guild_collar_tag"
+    },
+    {
+      "offer": {
+        "item": "domesticationinnovation:pet_bed_white",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "guild_pet_bed_white"
+    },
+    {
+      "offer": {
+        "item": "domesticationinnovation:drum",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "stage_required": "adventuring_mastery",
+      "unlock_description": "jei.society_trading.adventuring_mastery_unlocked",
+      "trade_id": "guild_drum"
+    },
+    {
+      "offer": {
+        "item": "domesticationinnovation:wayward_lantern",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "stage_required": "adventuring_mastery",
+      "unlock_description": "jei.society_trading.adventuring_mastery_unlocked",
+      "trade_id": "guild_wayward_lantern"
+    },
+    {
+      "offer": {
+        "item": "automobility:automobile_assembler",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 2048,
+      "trade_id": "guild_automobile_assembler"
+    },
+    {
+      "offer": {
+        "item": "automobility:auto_mechanic_table",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 196608,
+      "trade_id": "guild_auto_mechanic_table"
+    },
+    {
+      "offer": {
+        "item": "society:skull_cavern_teleporter",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "stage_required": "vault_complete",
+      "trade_id": "guild_teleporter",
+      "unlock_description": "jei.society_trading.vault_complete"
+    },
+    {
+      "offer": {
+        "item": "gag:escape_rope",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:tripwire_hook",
+        "count": 1
+      },
+      "second_request": {
+        "item": "farmersdelight:rope",
+        "count": 5
+      },
+      "numismatics_cost": 512,
+      "trade_id": "valley_craft_gag_escape_rope_0"
+    },
+    {
+      "offer": {
+        "item": "supplementaries:bomb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 8,
+      "trade_id": "valley_red_merchant_supplementaries_bomb"
+    },
+    {
+      "offer": {
+        "item": "supplementaries:bomb_blue",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "valley_red_merchant_supplementaries_bomb_blue"
+    },
+    {
+      "offer": {
+        "item": "supplementaries:cannon",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "valley_red_merchant_supplementaries_cannon"
+    },
+    {
+      "offer": {
+        "item": "supplementaries:cannonball",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "valley_red_merchant_supplementaries_cannonball"
+    },
+    {
+      "offer": {
+        "item": "minecraft:tnt",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4,
+      "trade_id": "valley_red_merchant_minecraft_tnt"
+    },
+    {
+      "offer": {
+        "item": "minecraft:gunpowder",
+        "count": 4
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "valley_red_merchant_minecraft_gunpowder"
+    },
+    {
+      "offer": {
+        "item": "minecraft:firework_rocket",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "valley_red_merchant_minecraft_firework_rocket"
+    },
+    {
+      "offer": {
+        "item": "minecraft:firework_star",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 8,
+      "trade_id": "valley_red_merchant_minecraft_firework_star"
+    },
+    {
+      "offer": {
+        "item": "supplementaries:rope_arrow",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4,
+      "trade_id": "valley_red_merchant_supplementaries_rope_arrow"
+    }
+  ]
+}

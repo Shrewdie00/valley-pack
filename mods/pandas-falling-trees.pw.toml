@@ -1,0 +1,13 @@
+name = "Panda's Falling Trees"
+filename = "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e787f81ddc9e8afea8d859d57776e212ab2b6ff4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6231030
+project-id = 880630

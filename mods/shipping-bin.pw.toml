@@ -1,0 +1,13 @@
+name = "Shipping Bin"
+filename = "ShippingBin-forge-1.20.1-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3467709775e63054b0c1a544e3dbf998ebac3f9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5818385
+project-id = 1058468

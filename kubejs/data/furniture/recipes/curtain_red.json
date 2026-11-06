@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB ",
+    "## ",
+    "## "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "society:red_sheet"
+    }
+  },
+  "result": {
+    "item": "furniture:curtain_red",
+    "count": 16
+  }
+}

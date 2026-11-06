@@ -1,0 +1,4127 @@
+{
+  "shop_id": "shepherd",
+  "name": "shop.society_trading.shepherd",
+  "texture": "dialog:textures/portraits/shepherd",
+  "villager_profession": "shepherd",
+  "stage_required": "invited_shepherd",
+  "selector_weight": -97,
+  "jei_catalyst": {
+    "item": "society:villager",
+    "nbt": "{type:{id:\"society:shepherd\"}}"
+  },
+  "trades": [
+    {
+      "offer": {
+        "item": "society:animal_feed",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "minecraft:shepherd_animal_feed_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "patchouli:guide_book",
+        "count": 1,
+        "nbt": "{\"patchouli:book\":\"patchouli:almanac\"}"
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "shepherd_guide_book_for_cog"
+    },
+    {
+      "offer": {
+        "item": "society:feeding_trough",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "shepherd_feeding_trough_for_bevel"
+    },
+    {
+      "offer": {
+        "item": "minecraft:name_tag",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_name_tag"
+    },
+    {
+      "offer": {
+        "item": "moblassos:diamond_lasso",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "shepherd_mob_lasso_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:milk_pail",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 256,
+      "trade_id": "shepherd_milk_pail_for_cog"
+    },
+    {
+      "offer": {
+        "item": "society:miracle_potion",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 1024,
+      "trade_id": "shepherd_miracle_potion_for_cog"
+    },
+    {
+      "offer": {
+        "item": "minecraft:saddle",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 128,
+      "trade_id": "leatherworker_saddle_for_cog"
+    },
+    {
+      "offer": {
+        "item": "splendid_slimes:slime_vac",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "slime_vac_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:magic_shears",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 3072,
+      "trade_id": "shepherd_magic_shears_for_crown"
+    },
+    {
+      "offer": {
+        "item": "society:mood_scanner",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 3584,
+      "trade_id": "shepherd_mood_scanner"
+    },
+    {
+      "offer": {
+        "item": "etcetera:handbell",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_handbell_for_cog"
+    },
+    {
+      "offer": {
+        "item": "minecraft:chicken_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_chicken_spawn_egg_for_crown"
+    },
+    {
+      "offer": {
+        "item": "minecraft:cow_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_cow_spawn_egg_for_crown"
+    },
+    {
+      "offer": {
+        "item": "minecraft:sheep_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_sheep_spawn_egg_for_crown"
+    },
+    {
+      "offer": {
+        "item": "untitledduckmod:duck_sack",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "shepherd_duck_sack_for_crown"
+    },
+    {
+      "offer": {
+        "item": "minecraft:rabbit_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "shepherd_rabbit_spawn_egg_for_sun"
+    },
+    {
+      "offer": {
+        "item": "minecraft:pig_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "shepherd_pig_spawn_egg_for_sun"
+    },
+    {
+      "offer": {
+        "item": "minecraft:goat_spawn_egg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16484,
+      "trade_id": "shepherd_goat_spawn_egg_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:friendship_necklace",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 196608,
+      "trade_id": "shepherd_friendship_necklace_for_sun"
+    },
+    {
+      "offer": {
+        "item": "simplehats:acornhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:atlantic_herring",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_acornhat_0"
+    },
+    {
+      "offer": {
+        "item": "simplehats:alien_antennae",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:pufferfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_alien_antennae_1"
+    },
+    {
+      "offer": {
+        "item": "simplehats:astronaut",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:pufferfish_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_astronaut_2"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bandana",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:minnow",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bandana_3"
+    },
+    {
+      "offer": {
+        "item": "simplehats:baseballhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:bluegill",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_baseballhat_4"
+    },
+    {
+      "offer": {
+        "item": "simplehats:beanie",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:perch",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_beanie_5"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bicorne",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_sneep_snorp",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bicorne_6"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bigbrain",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:salmon",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bigbrain_7"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bigeyes",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:salmon_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bigeyes_8"
+    },
+    {
+      "offer": {
+        "item": "simplehats:binky",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:blackfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_binky_9"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bowler",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_beaked_herring",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bowler_10"
+    },
+    {
+      "offer": {
+        "item": "simplehats:brownbrick",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:brown_trout",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_brownbrick_11"
+    },
+    {
+      "offer": {
+        "item": "simplehats:burgerhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:carp",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_burgerhat_12"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bucket",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:piranha",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_bucket_13"
+    },
+    {
+      "offer": {
+        "item": "simplehats:caddycap",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:smallmouth_bass",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_caddycap_14"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cardboard_box",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:cod",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cardboard_box_15"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cartoonegg",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_picklefish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cartoonegg_16"
+    },
+    {
+      "offer": {
+        "item": "simplehats:chalk_stick",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:cod_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_chalk_stick_17"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cheeseslice",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:pollock",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cheeseslice_18"
+    },
+    {
+      "offer": {
+        "item": "simplehats:chefshat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:jellyfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_chefshat_19"
+    },
+    {
+      "offer": {
+        "item": "simplehats:chickenhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:rainbow_trout",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_chickenhead_20"
+    },
+    {
+      "offer": {
+        "item": "simplehats:circular_glasses",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:pink_salmon",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_circular_glasses_21"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cowboy",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:tropical_fish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cowboy_22"
+    },
+    {
+      "offer": {
+        "item": "simplehats:crown",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:tropical_fish_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_crown_23"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cucumbereyemask",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:red_grouper",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cucumbereyemask_24"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cyclopseye",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:gar",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_cyclopseye_25"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dairyqueen",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:muskellunge",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_dairyqueen_26"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dangereqsue",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_forkfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_dangereqsue_27"
+    },
+    {
+      "offer": {
+        "item": "simplehats:doubletake",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_snowflake",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_doubletake_28"
+    },
+    {
+      "offer": {
+        "item": "simplehats:elfhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:synodontis",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_elfhat_29"
+    },
+    {
+      "offer": {
+        "item": "simplehats:explorerhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:tambaqui",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_explorerhat_30"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyepatch",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_sailor_barb",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_eyepatch_31"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fez",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:atlantic_cod",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_fez_32"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fro",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:boulti",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_fro_33"
+    },
+    {
+      "offer": {
+        "item": "simplehats:gnome",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_aero_mono",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_gnome_34"
+    },
+    {
+      "offer": {
+        "item": "simplehats:goggles",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:leech",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_goggles_35"
+    },
+    {
+      "offer": {
+        "item": "simplehats:grandmadisguise",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:catfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_grandmadisguise_36"
+    },
+    {
+      "offer": {
+        "item": "simplehats:halo",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_bark_angelfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_halo_37"
+    },
+    {
+      "offer": {
+        "item": "simplehats:headshot",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_drooping_gourami",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_headshot_38"
+    },
+    {
+      "offer": {
+        "item": "simplehats:horsemask",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_demon_herring",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_horsemask_39"
+    },
+    {
+      "offer": {
+        "item": "simplehats:largehorns",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:tuna",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_largehorns_40"
+    },
+    {
+      "offer": {
+        "item": "simplehats:lilbow",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_triple_twirl_pleco",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_lilbow_41"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mohawk",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:bayad",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_mohawk_42"
+    },
+    {
+      "offer": {
+        "item": "simplehats:paperbag",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:arapaima",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_paperbag_43"
+    },
+    {
+      "offer": {
+        "item": "simplehats:partyhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_blind_sailfin",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_partyhat_44"
+    },
+    {
+      "offer": {
+        "item": "simplehats:pighead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:atlantic_halibut",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_pighead_45"
+    },
+    {
+      "offer": {
+        "item": "simplehats:pog",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:starshell_turtle",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_pog_46"
+    },
+    {
+      "offer": {
+        "item": "simplehats:policebucket",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:brown_shrooma",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_policebucket_47"
+    },
+    {
+      "offer": {
+        "item": "simplehats:poofballhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:red_shrooma",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_poofballhat_48"
+    },
+    {
+      "offer": {
+        "item": "simplehats:popehat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:arrau_turtle",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_popehat_49"
+    },
+    {
+      "offer": {
+        "item": "simplehats:ranahat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_amber_goby",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_ranahat_50"
+    },
+    {
+      "offer": {
+        "item": "simplehats:right_hand_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:capitaine",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_right_hand_hat_51"
+    },
+    {
+      "offer": {
+        "item": "simplehats:round_purple_wig",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:box_turtle",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_round_purple_wig_52"
+    },
+    {
+      "offer": {
+        "item": "simplehats:round_red_wig",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_copperflame_anthias",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_round_red_wig_53"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rubbernipple",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_circus_fish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_rubbernipple_54"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sausage",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crittersandcompanions:koi_fish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_sausage_55"
+    },
+    {
+      "offer": {
+        "item": "simplehats:scouter",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_hatchetfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_scouter_56"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sheep",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_spindlefish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_sheep_57"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sleepeyemask",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:neptuna",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_sleepeyemask_58"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sombrero",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:pacific_halibut",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_sombrero_59"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sprout",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_eyelash",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_sprout_60"
+    },
+    {
+      "offer": {
+        "item": "simplehats:stuck_lollipop",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "unusualfishmod:raw_duality_damselfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_stuck_lollipop_61"
+    },
+    {
+      "offer": {
+        "item": "simplehats:swimmer",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:goldfish",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_swimmer_62"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tick_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:shrimp",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_tick_on_head_63"
+    },
+    {
+      "offer": {
+        "item": "simplehats:toast",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:shrimp_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_toast_64"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tophat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:clawster",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_tophat_65"
+    },
+    {
+      "offer": {
+        "item": "simplehats:triangleshades",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:clawster_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_triangleshades_66"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tricorne",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:crab",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_tricorne_67"
+    },
+    {
+      "offer": {
+        "item": "simplehats:udder_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:crab_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_udder_hat_68"
+    },
+    {
+      "offer": {
+        "item": "simplehats:ushanka",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:clam",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_ushanka_69"
+    },
+    {
+      "offer": {
+        "item": "simplehats:villagernose",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:clam_barrel",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_villagernose_70"
+    },
+    {
+      "offer": {
+        "item": "simplehats:worm_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:raw_clam_meat",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "valley_craft_simplehats_worm_hat_71"
+    },
+    {
+      "offer": {
+        "item": "simplehats:angrymask",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:allanite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_angrymask_72"
+    },
+    {
+      "offer": {
+        "item": "simplehats:antlers",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:calcite_gem",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_antlers_73"
+    },
+    {
+      "offer": {
+        "item": "simplehats:apple",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:celestine",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_apple_74"
+    },
+    {
+      "offer": {
+        "item": "simplehats:beetle_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:earth_crystal",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_beetle_on_head_75"
+    },
+    {
+      "offer": {
+        "item": "simplehats:beret_ribbon",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:granite_slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_beret_ribbon_76"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bigcrown",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jagoite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_bigcrown_77"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bigribbon",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jamborite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_bigribbon_78"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bigstevehead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:limestone_pebble",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_bigstevehead_79"
+    },
+    {
+      "offer": {
+        "item": "simplehats:breadhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:malachite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_breadhat_80"
+    },
+    {
+      "offer": {
+        "item": "simplehats:camerabeard",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:mudstone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_camerabeard_81"
+    },
+    {
+      "offer": {
+        "item": "simplehats:carrotonstick",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:nekoite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_carrotonstick_82"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cat_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:orpiment",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_cat_hat_83"
+    },
+    {
+      "offer": {
+        "item": "simplehats:chickenonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:petrified_slime",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_chickenonhead_84"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cuphead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:sandstone_slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_cuphead_85"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dimmahat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dimmahat_86"
+    },
+    {
+      "offer": {
+        "item": "simplehats:disguise",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:thunder_egg",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_disguise_87"
+    },
+    {
+      "offer": {
+        "item": "simplehats:doctorhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:aerinite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_doctorhat_88"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dorkglassesandteeth",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:esperite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dorkglassesandteeth_89"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dragonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:fairy_stone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dragonhead_90"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dragonskull",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:fluorapatite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dragonskull_91"
+    },
+    {
+      "offer": {
+        "item": "simplehats:drinkinhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:geminite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_drinkinhat_92"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dumhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:ghost_crystal",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dumhat_93"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dwarfminerbeard",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:hematite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_dwarfminerbeard_94"
+    },
+    {
+      "offer": {
+        "item": "simplehats:easterhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:kyanite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_easterhead_95"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyeholder_dark",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:lunarite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_eyeholder_dark_96"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyeholder_evil",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:marble",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_eyeholder_evil_97"
+    },
+    {
+      "offer": {
+        "item": "simplehats:finnhood",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:ocean_stone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_finnhood_98"
+    },
+    {
+      "offer": {
+        "item": "simplehats:flies",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:opal",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_flies_99"
+    },
+    {
+      "offer": {
+        "item": "simplehats:frozenhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:pyrite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_frozenhead_100"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fullironhelm",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:soapstone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_fullironhelm_101"
+    },
+    {
+      "offer": {
+        "item": "simplehats:gnome_clover_wig",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:frozen_tear",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_gnome_clover_wig_102"
+    },
+    {
+      "offer": {
+        "item": "simplehats:greaser",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:baryte",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_greaser_103"
+    },
+    {
+      "offer": {
+        "item": "simplehats:headbolts",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:basalt_shard",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_headbolts_104"
+    },
+    {
+      "offer": {
+        "item": "simplehats:icedragonskull",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:bixbyite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_icedragonskull_105"
+    },
+    {
+      "offer": {
+        "item": "simplehats:jesterhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:dolomite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_jesterhat_106"
+    },
+    {
+      "offer": {
+        "item": "simplehats:ladybug_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:fire_opal",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_ladybug_on_head_107"
+    },
+    {
+      "offer": {
+        "item": "simplehats:megamanhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:fire_quartz",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_megamanhat_108"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mimic_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:helvite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_mimic_head_109"
+    },
+    {
+      "offer": {
+        "item": "simplehats:monkeyking",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jasper",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_monkeyking_110"
+    },
+    {
+      "offer": {
+        "item": "simplehats:monocle",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:lemon_stone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_monocle_111"
+    },
+    {
+      "offer": {
+        "item": "simplehats:moreeyes",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:neptunite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_moreeyes_112"
+    },
+    {
+      "offer": {
+        "item": "simplehats:orange_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:pure_obsidian",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_orange_hat_113"
+    },
+    {
+      "offer": {
+        "item": "simplehats:penguinhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:star_shards",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_penguinhat_114"
+    },
+    {
+      "offer": {
+        "item": "simplehats:questbook",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:tigerseye",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_questbook_115"
+    },
+    {
+      "offer": {
+        "item": "simplehats:redstache",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:allanite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_redstache_116"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rock",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:calcite_gem",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_rock_117"
+    },
+    {
+      "offer": {
+        "item": "simplehats:shakehat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:celestine",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_shakehat_118"
+    },
+    {
+      "offer": {
+        "item": "simplehats:shrekears",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:earth_crystal",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_shrekears_119"
+    },
+    {
+      "offer": {
+        "item": "simplehats:shroomcap",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:granite_slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_shroomcap_120"
+    },
+    {
+      "offer": {
+        "item": "simplehats:springer",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jagoite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_springer_121"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sport_sunglasses",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jamborite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_sport_sunglasses_122"
+    },
+    {
+      "offer": {
+        "item": "simplehats:spyzombie",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:limestone_pebble",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_spyzombie_123"
+    },
+    {
+      "offer": {
+        "item": "simplehats:strawberry_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:malachite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_strawberry_hat_124"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tanuki_leaf",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:mudstone",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_tanuki_leaf_125"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tinkerhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:nekoite",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_tinkerhat_126"
+    },
+    {
+      "offer": {
+        "item": "simplehats:toptophathat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:orpiment",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_toptophathat_127"
+    },
+    {
+      "offer": {
+        "item": "simplehats:toy_story_alien",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:petrified_slime",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_toy_story_alien_128"
+    },
+    {
+      "offer": {
+        "item": "simplehats:unicornhorn",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:sandstone_slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_unicornhorn_129"
+    },
+    {
+      "offer": {
+        "item": "simplehats:worms_mine",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:slate",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_simplehats_worms_mine_130"
+    },
+    {
+      "offer": {
+        "item": "simplehats:aegishat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:dragon_breath",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_aegishat_131"
+    },
+    {
+      "offer": {
+        "item": "simplehats:alienphil",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:sunlit_pearl",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_alienphil_132"
+    },
+    {
+      "offer": {
+        "item": "simplehats:azumanga_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crittersandcompanions:clam",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_azumanga_hat_133"
+    },
+    {
+      "offer": {
+        "item": "simplehats:baby_crewmate",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "windswept:elder_feather",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_baby_crewmate_134"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bee_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "windswept:frozen_branch",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_bee_on_head_135"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bluefireeye",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crittersandcompanions:silk",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_bluefireeye_136"
+    },
+    {
+      "offer": {
+        "item": "simplehats:camera",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crittersandcompanions:dragonfly_wing",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_camera_137"
+    },
+    {
+      "offer": {
+        "item": "simplehats:candleonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:dragon_scale",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_candleonhead_138"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cat_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:river_jelly",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_cat_on_head_139"
+    },
+    {
+      "offer": {
+        "item": "simplehats:caterpillar_on_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:ocean_jelly",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_caterpillar_on_head_140"
+    },
+    {
+      "offer": {
+        "item": "simplehats:chocolate_sauced",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:nether_jelly",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_chocolate_sauced_141"
+    },
+    {
+      "offer": {
+        "item": "simplehats:clockface",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "botania:black_lotus",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_clockface_142"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dejiko",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "automobility:dash_panel",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_dejiko_143"
+    },
+    {
+      "offer": {
+        "item": "simplehats:demoneyes",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "create:experience_nugget",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_demoneyes_144"
+    },
+    {
+      "offer": {
+        "item": "simplehats:demonhorns",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "create:experience_block",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_demonhorns_145"
+    },
+    {
+      "offer": {
+        "item": "simplehats:digger",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:gnome",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_digger_146"
+    },
+    {
+      "offer": {
+        "item": "simplehats:dragonskullender",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_dragonskullender_147"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyeholder_warm",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "create_enchantment_industry:hyper_experience_bottle",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_eyeholder_warm_148"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fakefire",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "twigs:opaline_seashell",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_fakefire_149"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fishonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "twigs:roseate_seashell",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_fishonhead_150"
+    },
+    {
+      "offer": {
+        "item": "simplehats:floatinghearts",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "twigs:bronzed_seashell",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_floatinghearts_151"
+    },
+    {
+      "offer": {
+        "item": "simplehats:floatingstar",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "twigs:tangerine_seashell",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_floatingstar_152"
+    },
+    {
+      "offer": {
+        "item": "simplehats:flowercrown",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "furniture:trash_bag",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_flowercrown_153"
+    },
+    {
+      "offer": {
+        "item": "simplehats:floweronhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "aquaculture:tin_can",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_floweronhead_154"
+    },
+    {
+      "offer": {
+        "item": "simplehats:foxhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_common",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_foxhat_155"
+    },
+    {
+      "offer": {
+        "item": "simplehats:hat_of_discipline",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_uncommon",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_hat_of_discipline_156"
+    },
+    {
+      "offer": {
+        "item": "simplehats:holyhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_rare",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_holyhead_157"
+    },
+    {
+      "offer": {
+        "item": "simplehats:hosthat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_epic",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_hosthat_158"
+    },
+    {
+      "offer": {
+        "item": "simplehats:lightning_eyes",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_easter",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_lightning_eyes_159"
+    },
+    {
+      "offer": {
+        "item": "simplehats:lil_bows",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_summer",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_lil_bows_160"
+    },
+    {
+      "offer": {
+        "item": "simplehats:madscientist",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_halloween",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_madscientist_161"
+    },
+    {
+      "offer": {
+        "item": "simplehats:medusa",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplehats:hatbag_festive",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_medusa_162"
+    },
+    {
+      "offer": {
+        "item": "simplehats:milady_doll",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:nautilus_shell",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_milady_doll_163"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mimic_head_dark",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "crabbersdelight:nautilus_shell_block",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_mimic_head_dark_164"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mindflayer",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:echo_shard",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_mindflayer_165"
+    },
+    {
+      "offer": {
+        "item": "simplehats:paypay",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:heart_of_the_sea",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_paypay_166"
+    },
+    {
+      "offer": {
+        "item": "simplehats:penguinbaby",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "minecraft:nether_star",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_penguinbaby_167"
+    },
+    {
+      "offer": {
+        "item": "simplehats:peppino",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:artifact_shards",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_peppino_168"
+    },
+    {
+      "offer": {
+        "item": "simplehats:policesiren",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:unidentified_artifact",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_policesiren_169"
+    },
+    {
+      "offer": {
+        "item": "simplehats:propelhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:sheep_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_propelhat_170"
+    },
+    {
+      "offer": {
+        "item": "simplehats:puchiko",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:villager_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_puchiko_171"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rabi_en_rose",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:creeper_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_rabi_en_rose_172"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rabbitonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:ocelot_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_rabbitonhead_173"
+    },
+    {
+      "offer": {
+        "item": "simplehats:redeyes",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:wolf_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_redeyes_174"
+    },
+    {
+      "offer": {
+        "item": "simplehats:simsgem",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:chicken_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_simsgem_175"
+    },
+    {
+      "offer": {
+        "item": "simplehats:slime_head",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:guardian_fossil_head",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_slime_head_176"
+    },
+    {
+      "offer": {
+        "item": "simplehats:smokingpipe",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:villager_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_smokingpipe_177"
+    },
+    {
+      "offer": {
+        "item": "simplehats:snowmanbaby",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:creeper_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_snowmanbaby_178"
+    },
+    {
+      "offer": {
+        "item": "simplehats:spadesoldier",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:ocelot_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_spadesoldier_179"
+    },
+    {
+      "offer": {
+        "item": "simplehats:stress",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:wolf_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_stress_180"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sunglasses",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:chicken_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_sunglasses_181"
+    },
+    {
+      "offer": {
+        "item": "simplehats:sunglassesbig",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:guardian_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_sunglassesbig_182"
+    },
+    {
+      "offer": {
+        "item": "simplehats:supersandhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:sheep_fossil_body",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_supersandhat_183"
+    },
+    {
+      "offer": {
+        "item": "simplehats:the_noise",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:creeper_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_the_noise_184"
+    },
+    {
+      "offer": {
+        "item": "simplehats:topcathat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:villager_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_topcathat_185"
+    },
+    {
+      "offer": {
+        "item": "simplehats:toilet",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:chicken_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_toilet_186"
+    },
+    {
+      "offer": {
+        "item": "simplehats:traffic_cone",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:ocelot_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_traffic_cone_187"
+    },
+    {
+      "offer": {
+        "item": "simplehats:vikinghatbeard",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:wolf_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_vikinghatbeard_188"
+    },
+    {
+      "offer": {
+        "item": "simplehats:winghat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "betterarcheology:sheep_fossil",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "valley_craft_simplehats_winghat_189"
+    },
+    {
+      "offer": {
+        "item": "simplehats:amalgalichhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_amalgalichhat_190"
+    },
+    {
+      "offer": {
+        "item": "simplehats:angel_and_devil",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_angel_and_devil_191"
+    },
+    {
+      "offer": {
+        "item": "simplehats:artsy",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_artsy_192"
+    },
+    {
+      "offer": {
+        "item": "simplehats:artsy_doll",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_artsy_doll_193"
+    },
+    {
+      "offer": {
+        "item": "simplehats:babyturtle",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_babyturtle_194"
+    },
+    {
+      "offer": {
+        "item": "simplehats:babydolphin",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_babydolphin_195"
+    },
+    {
+      "offer": {
+        "item": "simplehats:bandanargb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_bandanargb_196"
+    },
+    {
+      "offer": {
+        "item": "simplehats:baseballhatrgb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_baseballhatrgb_197"
+    },
+    {
+      "offer": {
+        "item": "simplehats:beaniergb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_beaniergb_198"
+    },
+    {
+      "offer": {
+        "item": "simplehats:beehat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_beehat_199"
+    },
+    {
+      "offer": {
+        "item": "simplehats:burning_m_bison",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_burning_m_bison_200"
+    },
+    {
+      "offer": {
+        "item": "simplehats:cowboyrgb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_cowboyrgb_201"
+    },
+    {
+      "offer": {
+        "item": "simplehats:crabonhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_crabonhead_202"
+    },
+    {
+      "offer": {
+        "item": "simplehats:crystal_horns",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_crystal_horns_203"
+    },
+    {
+      "offer": {
+        "item": "simplehats:discoball",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_discoball_204"
+    },
+    {
+      "offer": {
+        "item": "simplehats:druid_antlers_rare",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_druid_antlers_rare_205"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyeholder_beeholder",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_eyeholder_beeholder_206"
+    },
+    {
+      "offer": {
+        "item": "simplehats:eyeholder_xanath",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_eyeholder_xanath_207"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fakeblight",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_fakeblight_208"
+    },
+    {
+      "offer": {
+        "item": "simplehats:fishing_hat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_fishing_hat_209"
+    },
+    {
+      "offer": {
+        "item": "simplehats:greenbirb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_greenbirb_210"
+    },
+    {
+      "offer": {
+        "item": "simplehats:headphonesblue",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_headphonesblue_211"
+    },
+    {
+      "offer": {
+        "item": "simplehats:kirbymouthful",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_kirbymouthful_212"
+    },
+    {
+      "offer": {
+        "item": "simplehats:lil_termagant",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_lil_termagant_213"
+    },
+    {
+      "offer": {
+        "item": "simplehats:magikarp",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_magikarp_214"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mimic_head_gold",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_mimic_head_gold_215"
+    },
+    {
+      "offer": {
+        "item": "simplehats:mindflayer_alhoon",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_mindflayer_alhoon_216"
+    },
+    {
+      "offer": {
+        "item": "simplehats:nyan_doll",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_nyan_doll_217"
+    },
+    {
+      "offer": {
+        "item": "simplehats:octodad",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_octodad_218"
+    },
+    {
+      "offer": {
+        "item": "simplehats:pohatoe",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_pohatoe_219"
+    },
+    {
+      "offer": {
+        "item": "simplehats:poofballrgb",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_poofballrgb_220"
+    },
+    {
+      "offer": {
+        "item": "simplehats:potionhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_potionhead_221"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rainboworbiters",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rainboworbiters_222"
+    },
+    {
+      "offer": {
+        "item": "simplehats:raincloud",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_raincloud_223"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbbigribbon",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbbigribbon_224"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbbowler",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbbowler_225"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbdragonskull",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbdragonskull_226"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbdrinkinhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbdrinkinhat_227"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbeasterhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbeasterhead_228"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbfullhelm",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbfullhelm_229"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbpartyhat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbpartyhat_230"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbsmallbowler",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbsmallbowler_231"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbsunglasses",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbsunglasses_232"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbtoptophathat",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbtoptophathat_233"
+    },
+    {
+      "offer": {
+        "item": "simplehats:rgbushanka",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_rgbushanka_234"
+    },
+    {
+      "offer": {
+        "item": "simplehats:slime_cube_dnd",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_slime_cube_dnd_235"
+    },
+    {
+      "offer": {
+        "item": "simplehats:stinkycheeseman",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_stinkycheeseman_236"
+    },
+    {
+      "offer": {
+        "item": "simplehats:the_noisier",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_the_noisier_237"
+    },
+    {
+      "offer": {
+        "item": "simplehats:thumbnail",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_thumbnail_238"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tomato_splats",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_tomato_splats_239"
+    },
+    {
+      "offer": {
+        "item": "simplehats:tvhead",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:jade",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_tvhead_240"
+    },
+    {
+      "offer": {
+        "item": "simplehats:twilight_doll",
+        "count": 1
+      },
+      "request": {
+        "item": "society:canvas",
+        "count": 1
+      },
+      "second_request": {
+        "item": "society:prismatic_shard",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_simplehats_twilight_doll_241"
+    }
+  ]
+}

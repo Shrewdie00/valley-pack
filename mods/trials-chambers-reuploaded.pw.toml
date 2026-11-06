@@ -1,0 +1,13 @@
+name = "Trials Chambers Reuploaded"
+filename = "Trials-2.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c76eee317d09b669d89e71fa82b426f50ae3f241"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7266979
+project-id = 1392862

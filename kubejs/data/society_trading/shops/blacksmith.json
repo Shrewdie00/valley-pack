@@ -1,0 +1,441 @@
+{
+  "shop_id": "blacksmith",
+  "name": "shop.society_trading.blacksmith",
+  "texture": "dialog:textures/portraits/blacksmith",
+  "jei_catalyst": {
+    "item": "society:villager",
+    "nbt": "{type:{id:\"society:blacksmith\"}}"
+  },
+  "selector_weight": -98,
+  "villager_profession": "toolsmith",
+  "stage_required": "invited_blacksmith",
+  "trades": [
+    {
+      "offer": {
+        "item": "minecraft:coal",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "blacksmith_coal_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "minecraft:copper_ingot",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "blacksmith_copper_ingot_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "minecraft:iron_ingot",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 64,
+      "trade_id": "blacksmith_iron_ingot_for_cog"
+    },
+    {
+      "offer": {
+        "item": "create:zinc_ingot",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 128,
+      "trade_id": "blacksmith_zinc_ingot_for_cog"
+    },
+    {
+      "offer": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 256,
+      "trade_id": "blacksmith_gold_ingot_for_cog"
+    },
+    {
+      "offer": {
+        "item": "minecraft:redstone",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "blacksmith_redstone_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "minecraft:flint_and_steel",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 12288,
+      "trade_id": "blacksmith_flint_and_steel_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:iron_upgrade_smithing_template",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 512,
+      "trade_id": "blacksmith_iron_upgrade_smithing_template_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:gold_upgrade_smithing_template",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 4096,
+      "trade_id": "blacksmith_gold_upgrade_smithing_template_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:diamond_upgrade_smithing_template",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 8192,
+      "trade_id": "blacksmith_diamond_upgrade_smithing_template_for_sun"
+    },
+    {
+      "offer": {
+        "item": "minecraft:netherite_upgrade_smithing_template",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 49556,
+      "trade_id": "blacksmith_netherite_upgrade_smithing_template_for_crown"
+    },
+    {
+      "offer": {
+        "item": "society:geode_buster",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16,
+      "trade_id": "blacksmith_geode_buster_for_sprocket"
+    },
+    {
+      "offer": {
+        "item": "extractinator:extractinator",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 12288,
+      "trade_id": "blacksmith_extractinator_for_sun"
+    },
+    {
+      "offer": {
+        "item": "create:brown_toolbox",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 384,
+      "trade_id": "blacksmith_brown_toolbox_for_cog"
+    },
+    {
+      "offer": {
+        "item": "refurbished_furniture:workbench",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 32768,
+      "trade_id": "blacksmith_crafter_for_cog"
+    },
+    {
+      "offer": {
+        "item": "furniture:bin",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 16384,
+      "trade_id": "blacksmith_bin_for_sun"
+    },
+    {
+      "offer": {
+        "item": "society:moon_statue",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:netherite_ingot",
+        "count": 20
+      },
+      "stage_required": "mining_mastery",
+      "unlock_description": "jei.society_trading.mining_mastery_unlocked",
+      "trade_id": "blacksmith_moon_statue"
+    },
+    {
+      "offer": {
+        "item": "buildinggadgets2:gadget_core",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 40960,
+      "trade_id": "blacksmith_gadget_core_for_sun"
+    },
+    {
+      "offer": {
+        "item": "justhammers:small_core",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 131072,
+      "trade_id": "blacksmith_small_core_for_sun"
+    },
+    {
+      "offer": {
+        "item": "justhammers:impact_core",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 524288,
+      "trade_id": "blacksmith_impact_core_for_ancient_coin"
+    },
+    {
+      "offer": {
+        "item": "create:mechanical_saw",
+        "count": 1
+      },
+      "request": {
+        "item": "create:powdered_obsidian",
+        "count": 2
+      },
+      "second_request": {
+        "item": "minecraft:netherite_ingot",
+        "count": 3
+      },
+      "extra_requests": [
+        {
+          "item": "minecraft:netherite_upgrade_smithing_template",
+          "count": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 262144,
+      "trade_id": "valley_craft_create_mechanical_saw_0"
+    },
+    {
+      "offer": {
+        "item": "create:mechanical_harvester",
+        "count": 1
+      },
+      "request": {
+        "item": "society:prismatic_shard",
+        "count": 2
+      },
+      "second_request": {
+        "item": "minecraft:netherite_ingot",
+        "count": 3
+      },
+      "extra_requests": [
+        {
+          "item": "create:powdered_obsidian",
+          "count": 2
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 262144,
+      "trade_id": "valley_craft_create_mechanical_harvester_1"
+    },
+    {
+      "offer": {
+        "item": "create:mechanical_drill",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:netherite_ingot",
+        "count": 4
+      },
+      "second_request": {
+        "item": "create:powdered_obsidian",
+        "count": 2
+      },
+      "extra_requests": [
+        {
+          "item": "society:prismatic_shard",
+          "count": 1
+        },
+        {
+          "item": "create:andesite_casing",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 262144,
+      "trade_id": "valley_craft_create_mechanical_drill_2"
+    },
+    {
+      "offer": {
+        "item": "create:mechanical_crafter",
+        "count": 3
+      },
+      "request": {
+        "item": "create:electron_tube",
+        "count": 1
+      },
+      "second_request": {
+        "item": "create:brass_casing",
+        "count": 1
+      },
+      "extra_requests": [
+        {
+          "item": "minecraft:crafting_table",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 8192,
+      "trade_id": "valley_craft_create_mechanical_crafter_3"
+    },
+    {
+      "offer": {
+        "item": "rehooked:diamond_chain",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:diamond_block",
+        "count": 4
+      },
+      "numismatics_cost": 786432,
+      "trade_id": "valley_craft_rehooked_diamond_chain_4"
+    },
+    {
+      "offer": {
+        "item": "rehooked:ender_hook",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:ender_eye",
+        "count": 4
+      },
+      "second_request": {
+        "item": "rehooked:diamond_hook",
+        "count": 1
+      },
+      "extra_requests": [
+        {
+          "item": "minecraft:ender_pearl",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 16777216,
+      "trade_id": "valley_craft_rehooked_ender_hook_5"
+    },
+    {
+      "offer": {
+        "item": "rehooked:iron_hook",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      "second_request": {
+        "item": "rehooked:wood_hook",
+        "count": 1
+      },
+      "extra_requests": [
+        {
+          "item": "minecraft:chain",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 32768,
+      "trade_id": "valley_craft_rehooked_iron_hook_6"
+    },
+    {
+      "offer": {
+        "item": "simplemagnets:advancedmagnet",
+        "count": 1
+      },
+      "request": {
+        "item": "minecraft:lapis_lazuli",
+        "count": 1
+      },
+      "second_request": {
+        "item": "simplemagnets:basicmagnet",
+        "count": 1
+      },
+      "extra_requests": [
+        {
+          "item": "minecraft:ender_eye",
+          "count": 1
+        },
+        {
+          "item": "minecraft:diamond_block",
+          "count": 1
+        },
+        {
+          "item": "society:fire_quartz",
+          "count": 1
+        }
+      ],
+      "numismatics_cost": 256,
+      "trade_id": "valley_craft_simplemagnets_advancedmagnet_7"
+    }
+  ]
+}

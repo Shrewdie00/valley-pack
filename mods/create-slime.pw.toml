@@ -1,0 +1,13 @@
+name = "Create: Splendid Cogs"
+filename = "create_slime-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3550ac8a2aca1a44e3d2baa2cb5386032676a43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6963686
+project-id = 1335492

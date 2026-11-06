@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "forge:plates/copper"
+    },
+    "C": {
+      "item": "create:copper_casing"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BCB",
+    " B "
+  ],
+  "result": {
+    "item": "create:fluid_tank",
+    "count": 2
+  },
+  "show_notification": true
+}

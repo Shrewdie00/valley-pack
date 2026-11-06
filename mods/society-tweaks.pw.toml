@@ -1,0 +1,13 @@
+name = "Society Tweaks"
+filename = "society-1.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a3797329f678a63c707e76f589246b89eabe741"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8684561
+project-id = 1424785

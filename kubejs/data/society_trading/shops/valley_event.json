@@ -1,0 +1,32 @@
+{
+  "shop_id": "valley_event",
+  "name": "shop.society_trading.valley_event",
+  "texture": "dialog:textures/portraits/trader",
+  "hidden_from_selector": true,
+  "trades": [
+    {
+      "offer": {
+        "item": "society:town_return_scroll",
+        "count": 2
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 200,
+      "trade_id": "valley_event_scrolls"
+    },
+    {
+      "offer": {
+        "item": "minecraft:cake",
+        "count": 1
+      },
+      "request": {
+        "item": "society:money",
+        "count": 1
+      },
+      "numismatics_cost": 300,
+      "trade_id": "valley_event_cake"
+    }
+  ]
+}

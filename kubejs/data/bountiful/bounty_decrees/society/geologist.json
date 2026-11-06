@@ -1,0 +1,8 @@
+{
+	"objectives": [
+		"geologist_objs"
+	],
+	"rewards": [
+		"coin_rews"
+	]
+}

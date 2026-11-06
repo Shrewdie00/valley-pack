@@ -1,0 +1,13 @@
+name = "Better Advanced Tooltips Backport"
+filename = "betteradvancedtooltips-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83b42e4ceb2429ba006aca2410100feef7f0c3f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8167579
+project-id = 1547351

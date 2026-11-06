@@ -1,0 +1,215 @@
+{
+  "content": {
+    "coin_rew_bevel": {
+      "type": "command",
+      "content": "valley bank add %PLAYER_NAME% %BOUNTY_AMOUNT%",
+      "amount": {
+        "min": 8,
+        "max": 16
+      },
+      "unitWorth": 1,
+      "weightMult": 0.2,
+      "name": "돈",
+      "icon": "society:money"
+    },
+    "coin_rew_sprocket": {
+      "type": "command",
+      "content": "valley bank add %PLAYER_NAME% %BOUNTY_AMOUNT%",
+      "amount": {
+        "min": 16,
+        "max": 48
+      },
+      "unitWorth": 1,
+      "weightMult": 0.3,
+      "name": "돈",
+      "icon": "society:money"
+    },
+    "coin_rew_cog": {
+      "type": "command",
+      "content": "valley bank add %PLAYER_NAME% %BOUNTY_AMOUNT%",
+      "amount": {
+        "min": 64,
+        "max": 448
+      },
+      "unitWorth": 1,
+      "weightMult": 0.7,
+      "name": "돈",
+      "icon": "society:money"
+    },
+    "coin_rew_crown": {
+      "type": "command",
+      "content": "valley bank add %PLAYER_NAME% %BOUNTY_AMOUNT%",
+      "amount": {
+        "min": 512,
+        "max": 1024
+      },
+      "unitWorth": 1,
+      "weightMult": 0.6,
+      "name": "돈",
+      "icon": "society:money"
+    },
+    "coin_rew_sun": {
+      "type": "command",
+      "content": "valley bank add %PLAYER_NAME% %BOUNTY_AMOUNT%",
+      "amount": {
+        "min": 4096,
+        "max": 4096
+      },
+      "unitWorth": 1,
+      "repRequired": 5,
+      "weightMult": 0.3,
+      "name": "돈",
+      "icon": "society:money"
+    },
+    "coin_rew_prize_ticket": {
+      "type": "item",
+      "content": "society:prize_ticket",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.13
+    },
+    "coin_rew_furniture_rew": {
+      "type": "item",
+      "content": "society:furniture_box",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_nordic": {
+      "type": "item",
+      "content": "society:fantasy_box_nordic",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_dunmer": {
+      "type": "item",
+      "content": "society:fantasy_box_dunmer",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_venthyr": {
+      "type": "item",
+      "content": "society:fantasy_box_venthyr",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_bone": {
+      "type": "item",
+      "content": "society:fantasy_box_bone",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_royal": {
+      "type": "item",
+      "content": "society:fantasy_box_royal",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 4096,
+      "weightMult": 0.02
+    },
+    "coin_rew_fantasy_box_": {
+      "type": "item",
+      "content": "society:fantasy_box_necrolord",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.02
+    },
+    "coin_rew_combat_quarterly": {
+      "type": "minecraft:item",
+      "content": "society:combat_quarterly",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.03
+    },
+    "coin_rew_yard_work_yearly": {
+      "type": "minecraft:item",
+      "content": "society:yard_work_yearly",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.03
+    },
+    "coin_rew_husbandry_hourly": {
+      "type": "minecraft:item",
+      "content": "society:husbandry_hourly",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.03
+    },
+    "coin_rew_wet_weekly": {
+      "type": "minecraft:item",
+      "content": "society:wet_weekly",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.03
+    },
+    "coin_rew_mining_monthly": {
+      "type": "minecraft:item",
+      "content": "society:mining_monthly",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1024,
+      "weightMult": 0.03
+    },
+    "coin_rew_book_of_stars": {
+      "type": "minecraft:item",
+      "content": "society:book_of_stars",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 2048,
+      "weightMult": 0.02
+    },
+    "coin_frogs_bounty_bazaar": {
+      "type": "minecraft:item",
+      "content": "society:frogs_bounty_bazaar",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 10096,
+      "weightMult": 0.01
+    }
+  }
+}

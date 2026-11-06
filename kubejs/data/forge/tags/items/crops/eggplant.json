@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#forge:eggplant",
+            "required": false
+        },
+        {
+            "id": "#forge:vegetables/eggplant",
+            "required": false
+        }
+    ]
+}

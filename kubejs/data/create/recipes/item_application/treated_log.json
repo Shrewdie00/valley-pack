@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "society:raw_logs"
+    },
+    {
+      "item": "society:oak_resin"
+    }
+  ],
+  "results": [
+    {
+      "item": "society:treated_log"
+    }
+  ]
+}

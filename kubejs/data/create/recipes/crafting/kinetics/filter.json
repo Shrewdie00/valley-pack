@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:nuggets/iron"
+    },
+    "S": {
+      "item": "society:canvas"
+    }
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:filter"
+  },
+  "show_notification": true
+}

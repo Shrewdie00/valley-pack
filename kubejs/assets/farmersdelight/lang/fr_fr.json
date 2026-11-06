@@ -1,0 +1,18 @@
+{
+  "item.farmersdelight.glow_berry_custard": "Crème pâtissière aux baies lumineuses oranges",
+  "item.farmersdelight.sweet_berry_cookie": "Cookie au litchi",
+  "item.farmersdelight.sweet_berry_cheesecake_slice": "Part de cheesecake au litchi",
+  "block.farmersdelight.sweet_berry_cheesecake": "Cheesecake au litchi",
+  "item.farmersdelight.nether_salad": "Salade de dragon du Nether",
+  "item.farmersdelight.melon_juice": "Jus de prune-melon",
+  "item.farmersdelight.honey_cookie": "Cookie étoilé",
+  "block.farmersdelight.rich_soil": "Terre à champignons",
+  "block.farmersdelight.rich_soil_farmland": "Terre agricole à champignons",
+  "farmersdelight.advancement.get_rich_soil": "Nourriture fongique",
+  "farmersdelight.advancement.get_rich_soil.desc": "La terre à champignons fait pousser des colonies lorsqu'on plante dessus !",
+  "block.farmersdelight.rope": "Corde agricole",
+  "farmersdelight.advancement.harvest_ropelogged_tomato.desc": "Suspendez de la corde agricole au-dessus d'un plant de tomates pour le faire pousser plus haut",
+  "item.farmersdelight.minced_beef": "Steak haché cru",
+  "item.farmersdelight.netherite_knife": "Couteau en iridium",
+  "farmersdelight.advancement.obtain_netherite_knife.desc": "Dépensez un lingot d'iridium entier pour améliorer votre couteau ! Ou sortez de la cuisine."
+}

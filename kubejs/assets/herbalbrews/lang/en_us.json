@@ -1,0 +1,10 @@
+{
+  "herbalbrews.advancement.find_tea_blossom.desc": "Find Tea Blossoms as loot in the world.",
+  "subtitles.herbalbrews.tea_kettle_boiling": "Tea Kettle boiling",
+  "herbalbrews.advancement.find_lavender": "Rosemary Discovery",
+  "herbalbrews.advancement.find_lavender.desc": "Seek out the soothing scent of rosemary in the cool embrace of the mountains.",
+  "block.herbalbrews.lavender": "Rosemary",
+  "block.herbalbrews.lavender_tea_block": "Rosemary Tea",
+  "block.herbalbrews.dried_green_tea_leaf_block": "Dried Green Tea Block",
+  "item.herbalbrews.lavender_blossom": "Rosemary Blossom"
+}

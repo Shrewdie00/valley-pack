@@ -1,0 +1,13 @@
+name = "Society Coins"
+filename = "SocietyCoins.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0cfdb37f7bb81ae444c2ce93795742edeedacec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8696776
+project-id = 1661835

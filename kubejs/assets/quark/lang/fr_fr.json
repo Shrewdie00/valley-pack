@@ -1,0 +1,12 @@
+{
+  "quark.jei.hint.crab_info": "Les crabes violonistes se trouvent sur les plages et peuvent être élevés avec du blé, du poulet ou tout type de poisson.",
+  "item.quark.crab_bucket": "Seau de crabe violoniste",
+  "item.quark.crab_leg": "Patte de crabe violoniste crue",
+  "item.quark.cooked_crab_leg": "Patte de crabe violoniste cuite",
+  "item.quark.crab_shell": "Carapace de crabe violoniste",
+  "item.quark.crab_spawn_egg": "Oeuf d'apparition de crabe violoniste",
+  "item.quark.foxhound_spawn_egg": "Caisse d'apparition de Foxhound",
+  "entity.quark.crab": "Crabe violoniste",
+  "tag.item.quark.crab_tempt_items": "Nourriture pour crabe violoniste",
+  "advancements.quark.crab_in_a_bucket.description": "Capturez un crabe violoniste dans un seau."
+}

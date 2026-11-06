@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "forge:plates/brass"
+    },
+    "S": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    " S ",
+    "BBB",
+    " B "
+  ],
+  "result": {
+    "item": "create:brass_hand"
+  },
+  "show_notification": true
+}
